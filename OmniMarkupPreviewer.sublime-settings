@@ -1,3 +1,6 @@
  {
-      "mathjax_enabled": true
+      "mathjax_enabled": true,
+       "renderer_options-MarkdownRenderer": {
+        "extensions": ["tables", "fenced_code", "codehilite"]
+    }
   } 

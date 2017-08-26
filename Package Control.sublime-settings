@@ -5,15 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"AutoPEP8",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"ExpandRegion",
 		"Jedi - Python autocompletion",
-		"Markdown Extended",
 		"MarkdownEditing",
-		"Material Theme",
-		"Material Theme - Appbar",
 		"OmniMarkupPreviewer",
 		"Package Control",
 		"Predawn",
